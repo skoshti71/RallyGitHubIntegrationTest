@@ -1,4 +1,5 @@
 #Configuration file
 
 Server=local
+Port=8080
 
