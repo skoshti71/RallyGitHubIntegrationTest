@@ -6,3 +6,4 @@ SK Updated 10/12, updated 1019
 Global GitHub file updated 11022016
 InProgress US139
 Completed US139
+Fixed DE7 in SK Test Project
